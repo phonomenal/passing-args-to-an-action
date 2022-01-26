@@ -1,5 +1,7 @@
 # Passing arguments to an action
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/54af75a2-d113-4773-aa9e-811c8b928ca0.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/passing-args-to-an-action?orgId=650162616495)  
+
 In this lesson, arguments are passed to the following actions:
 
 - [actions/checkout](https://github.com/actions/checkout)
